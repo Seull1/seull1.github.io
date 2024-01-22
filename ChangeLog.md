@@ -10,5 +10,7 @@
 - [x] search-consol
 
 ### 0.4.0
-- [ ] [naver SEO check list](https://github.com/Seull1/seull1.github.io/issues/6)
+- [x] [naver SEO check list](https://github.com/Seull1/seull1.github.io/issues/6)
 
+### 0.5.0
+- [ ] firebase & dev
