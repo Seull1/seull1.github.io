@@ -4,5 +4,7 @@
 - [x] study html a tag
 
 ### 0.2.0
-- [ ] search-consol
+- [x] search-consol
 
+### 0.2.1
+- [ ] naver seo
