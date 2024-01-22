@@ -7,7 +7,7 @@
 - [x] study html a tag
 
 ### 0.2.0
-- [x] search-consol
+- [ ] search-consol
 
 ### 0.4.0
 - [ ] [naver SEO check list](https://github.com/Seull1/seull1.github.io/issues/6)
