@@ -13,6 +13,10 @@
 * URL : https://seull1.web.app/
 
 ### STG prd ( seull1.github.io )
+* Branch : main
+* TRIGGER : Auto Github Action
+* URL :[seull1.github.io](https://seull1.github.io/)
+
 
 -- deploying seull1....
 
