@@ -13,18 +13,17 @@ class Food{
 	}
 }
 
-class Pizza extends Food{
-	constructor(name,brands){
-	}
-}
+class Pizza extends Food('피자')
 
-class Chicken extends Food{
-	constructor(name,brands){
-	}
-}
+class chicken extends Food('치킨')
 
-const pizza = new Pizza('피자헛');
-const chicken = new Chicken('굽네');;
+const pizza = new Pizza('피자');
+const chicken = new Chicken('치킨');;
+
+pizza.addbrand('피자헛');
+chicken.addbrand('네네');
+pizza.addbrand('미스터피자');
+chicken.addbrand('훌랄라');
 
 
 pizza.print();
