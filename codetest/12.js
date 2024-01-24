@@ -1,29 +1,25 @@
-class Food{
-	constructor(name){
+class Food {
+	constructor(name) {
 		this.name = name;
-		this.brands - [];
+		this.brands = [];
 	}
-	addBrand(brand){
-		this.brand.push(brand)
+	addBrand(brand) {
+		this.brands.push(brand);
 	}
-
-	print(){
-		console.log(`${this.name}을/를 파는 음식점들 : `)
+	print() {
+		console.log(`${this.name}을/를 파는 음식점들:`);
 		console.log(this.brands.join(', '));
 	}
 }
 
-class Pizza extends Food('피자')
 
-class chicken extends Food('치킨')
+const pizza = new Food('피자');
+const chicken = new Food('치킨');;
 
-const pizza = new Pizza('피자');
-const chicken = new Chicken('치킨');;
-
-pizza.addbrand('피자헛');
-chicken.addbrand('네네');
-pizza.addbrand('미스터피자');
-chicken.addbrand('훌랄라');
+pizza.addBrand('피자헛');
+chicken.addBrand('네네');
+pizza.addBrand('미스터피자');
+chicken.addBrand('훌랄라');
 
 
 pizza.print();
