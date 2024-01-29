@@ -1,0 +1,5 @@
+let a = 1;
+let b = 3;
+[a,b]= [b,a];
+console.log(a,b);  //3 1
+//
