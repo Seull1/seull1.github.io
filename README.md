@@ -23,3 +23,5 @@
 
 # 감사 - 디자인템플릿 공여자에게
 < ![Hey\! Thanks\!](https://media.giphy.com/media/ip6n2oVNZBHiM/giphy.gif)>
+
+.
